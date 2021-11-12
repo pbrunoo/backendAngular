@@ -11,6 +11,12 @@
       "validade": "2021-11-26",
       "preco": 303.5,
       "id": 2
+    },
+     {
+      "nome": "Curso Angular",
+      "validade": "2021-11-26",
+      "preco": 303.5,
+      "id": 3
     }
   ]
 }
